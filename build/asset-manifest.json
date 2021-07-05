@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/proppantprice/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/proppantprice/static/js/main.5cf05c89.chunk.js",
+    "main.js.map": "/proppantprice/static/js/main.5cf05c89.chunk.js.map",
+    "runtime-main.js": "/proppantprice/static/js/runtime-main.0b992e95.js",
+    "runtime-main.js.map": "/proppantprice/static/js/runtime-main.0b992e95.js.map",
+    "static/js/2.06845215.chunk.js": "/proppantprice/static/js/2.06845215.chunk.js",
+    "static/js/2.06845215.chunk.js.map": "/proppantprice/static/js/2.06845215.chunk.js.map",
+    "static/js/3.a07699dd.chunk.js": "/proppantprice/static/js/3.a07699dd.chunk.js",
+    "static/js/3.a07699dd.chunk.js.map": "/proppantprice/static/js/3.a07699dd.chunk.js.map",
+    "index.html": "/proppantprice/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/proppantprice/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.06845215.chunk.js.LICENSE.txt": "/proppantprice/static/js/2.06845215.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/proppantprice/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b992e95.js",
+    "static/js/2.06845215.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.5cf05c89.chunk.js"
+  ]
+}

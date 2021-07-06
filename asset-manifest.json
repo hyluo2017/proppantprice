@@ -1,20 +1,17 @@
 {
   "files": {
-    "main.css": "/proppantprice/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/proppantprice/static/js/main.af2a57eb.chunk.js",
-    "main.js.map": "/proppantprice/static/js/main.af2a57eb.chunk.js.map",
-    "runtime-main.js": "/proppantprice/static/js/runtime-main.f5f45013.js",
-    "runtime-main.js.map": "/proppantprice/static/js/runtime-main.f5f45013.js.map",
-    "static/js/2.d73b8595.chunk.js": "/proppantprice/static/js/2.d73b8595.chunk.js",
-    "static/js/2.d73b8595.chunk.js.map": "/proppantprice/static/js/2.d73b8595.chunk.js.map",
+    "main.js": "/proppantprice/static/js/main.4a4c112c.chunk.js",
+    "main.js.map": "/proppantprice/static/js/main.4a4c112c.chunk.js.map",
+    "runtime-main.js": "/proppantprice/static/js/runtime-main.76c3a8b9.js",
+    "runtime-main.js.map": "/proppantprice/static/js/runtime-main.76c3a8b9.js.map",
+    "static/js/2.7e61c57b.chunk.js": "/proppantprice/static/js/2.7e61c57b.chunk.js",
+    "static/js/2.7e61c57b.chunk.js.map": "/proppantprice/static/js/2.7e61c57b.chunk.js.map",
     "index.html": "/proppantprice/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/proppantprice/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.d73b8595.chunk.js.LICENSE.txt": "/proppantprice/static/js/2.d73b8595.chunk.js.LICENSE.txt"
+    "static/js/2.7e61c57b.chunk.js.LICENSE.txt": "/proppantprice/static/js/2.7e61c57b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f5f45013.js",
-    "static/js/2.d73b8595.chunk.js",
-    "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.af2a57eb.chunk.js"
+    "static/js/runtime-main.76c3a8b9.js",
+    "static/js/2.7e61c57b.chunk.js",
+    "static/js/main.4a4c112c.chunk.js"
   ]
 }

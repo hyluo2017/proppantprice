@@ -1,2 +1,0 @@
-(this["webpackJsonpgit-proppantprice"]=this["webpackJsonpgit-proppantprice"]||[]).push([[0],{4:function(e,t,r){"use strict";r.r(t);var n=r(3),p=r.n(n),c=r(1),i=function(){return Object(c.jsx)("div",{children:"hi there"})};p.a.render(Object(c.jsx)(i,{}),document.querySelector("#root"))}},[[4,1,2]]]);
-//# sourceMappingURL=main.4a4c112c.chunk.js.map

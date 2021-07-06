@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/proppantprice/static/js/main.4a4c112c.chunk.js",
-    "main.js.map": "/proppantprice/static/js/main.4a4c112c.chunk.js.map",
+    "main.js": "/proppantprice/static/js/main.20760197.chunk.js",
+    "main.js.map": "/proppantprice/static/js/main.20760197.chunk.js.map",
     "runtime-main.js": "/proppantprice/static/js/runtime-main.76c3a8b9.js",
     "runtime-main.js.map": "/proppantprice/static/js/runtime-main.76c3a8b9.js.map",
-    "static/js/2.7e61c57b.chunk.js": "/proppantprice/static/js/2.7e61c57b.chunk.js",
-    "static/js/2.7e61c57b.chunk.js.map": "/proppantprice/static/js/2.7e61c57b.chunk.js.map",
+    "static/js/2.9a615ae2.chunk.js": "/proppantprice/static/js/2.9a615ae2.chunk.js",
+    "static/js/2.9a615ae2.chunk.js.map": "/proppantprice/static/js/2.9a615ae2.chunk.js.map",
     "index.html": "/proppantprice/index.html",
-    "static/js/2.7e61c57b.chunk.js.LICENSE.txt": "/proppantprice/static/js/2.7e61c57b.chunk.js.LICENSE.txt"
+    "static/js/2.9a615ae2.chunk.js.LICENSE.txt": "/proppantprice/static/js/2.9a615ae2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.76c3a8b9.js",
-    "static/js/2.7e61c57b.chunk.js",
-    "static/js/main.4a4c112c.chunk.js"
+    "static/js/2.9a615ae2.chunk.js",
+    "static/js/main.20760197.chunk.js"
   ]
 }
